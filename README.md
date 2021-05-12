@@ -5,6 +5,6 @@
 - 📫 How to reach me ...
 <br>
 <br>
-<img src="https://miro.medium.com/max/12032/0*Fu_vcP7P_uHF1Szk" height="200px" width="1200px" />
+<img src="https://miro.medium.com/max/12032/0*Fu_vcP7P_uHF1Szk" height="300px" width="1200px" />
 <br>
 <br>
