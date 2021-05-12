@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @Osama Abdul Jabbar
+- 👋 Hi, I’m @Jibran-Abdul-Jabbar
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
-
-<br />
-<br />
-
-<img src="https://miro.medium.com/max/12032/0*Fu_vcP7P_uHF1Szk" width="" heigth="" />
+<br>
+<br>
+<img src="https://miro.medium.com/max/12032/0*Fu_vcP7P_uHF1Szk" width="1200px" />
+<br>
+<br>
